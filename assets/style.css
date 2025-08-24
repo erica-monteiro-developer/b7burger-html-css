@@ -242,7 +242,7 @@ header .menu-icon div {
 .product-item .info {
     background-color: #1F1F1F;
     padding: 60px 30px 30px 30px;
-    /* Simula efeito de que hamburger está saindo da barra div mais clara*/
+    /* Simula efeito de que hamburger está saindo da div (.photo) mais clara para dentro da mais escura (.info) */
     margin-top: -50px;
 }
 

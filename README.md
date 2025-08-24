@@ -2,7 +2,7 @@
 Projeto desenvolvido durante o curso de HTML5 e CSS3 da B7Web.
 
 ## 🔗 Demo
-- **Site:** [Acesse aqui](https://b7-burger-projeto-.netlify.app)
+- **Site:** [Acesse aqui](https://b7-burger-projeto.netlify.app)
 - **Preview:**  
 ![Demonstração do site](./assets/project.gif)
 
